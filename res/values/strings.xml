@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Settings</string>
+	<string name="app_name">语音锁屏</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_lock">LockActivity</string>
+    <string name="lock_now">立刻锁屏</string>
+    <string name="locked_already">这是我的锁屏界面</string>
+    <string name="unlock">点我解锁</string>
+    <string name="recognize">语音识别</string>
+</resources>
